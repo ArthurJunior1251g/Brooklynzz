@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brooklynzz&label=Profile%20Views&color=daa520&style=flat" alt="brooklynzz" /> </p>
 
-- 🔭 Atualmente trabalho com [FiveM](discord.gg/cidadegelada)
+- 🎮 Atualmente trabalho com [FiveM](discord.gg/cidadegelada)
 
-- 🌱 Estou aprendendo **Lua, HTML, CSS3 e JavaScript**
+- 📚 Estou aprendendo **Lua, HTML, CSS3 e JavaScript**
 
-- 📫 Para me contatar, estes são os canais: **Brooklyn#4444 (Discord) or @Folkloreww (Twitter)**
+- 📱 Para me contatar, estes são os canais: **Brooklyn#4444 (Discord) or @Folkloreww (Twitter)**
 
 - ⚡ Um fato sobre mim: **Meus álbuns favoritos são Folklore e Evermore**
 
