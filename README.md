@@ -1,7 +1,7 @@
 <h1 align="center">Oi! Me chamam de Brooklyn</h1>
 <h3 align="center">Atualmente estudo Lua e desenvolvimento Front-End. Amo hambúrguer e Taylor Swift.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brooklynzz&label=Profile%20Views&color=daa520&style=flat" alt="brooklynzz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brooklynzz&label=Profile%20Views&color=4f9292&style=flat" alt="brooklynzz" /> </p>
 
 - 🎮 Atualmente trabalho com [FiveM](discord.gg/cidadegelada)
 
